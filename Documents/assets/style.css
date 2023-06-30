@@ -1,0 +1,146 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700;900&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Belanosima:wght@600;700&family=Roboto:wght@400;700;900&display=swap');
+
+
+.navbar{
+    background-color: rgb(166, 239, 239);
+}
+.list{
+    display: flex;
+    padding: 20px;
+    margin-left: 400px;
+    list-style-type: none;
+
+}
+.list-item{
+margin-right: 120px;
+font-weight: 600;
+margin-top: -80px;
+
+}
+.list-item:hover{
+    color: #5cd5f4;
+    font-size: larger;
+    font-weight: 700;
+    text-decoration: underline;
+    list-style-type: none;
+}
+.navbar-container{
+    background-color: transparent;
+    /* margin-top: 20px; */
+}
+.logo{
+    margin-left: 60px;
+    margin-top: 50px;
+}
+.button-group{
+    float: right;
+    margin-top: -100px;
+    display: flex;
+    margin-right: 30px;
+}
+.search-icon{
+margin-right: 10px;
+}
+.nav-button{
+    background-color: transparent;
+    padding: 8px;
+    border: 2px solid black;
+    border-radius: 5px ;
+}
+.hero-container {
+    display: inline;
+
+}
+body{
+    background-color: #97a6a9;
+}
+.image{
+    margin-left: 60px;
+    margin-top: -400px;
+    height: 100px;
+    width: 70px;
+}
+.hei{
+    height: 400px;
+    width: 400px;
+}
+.square{
+    margin-left: 150px;
+    place-content: end start;
+    /* margin-top:-20px ;
+    margin-bottom: 10%;   */
+    margin-block-start: 20%;writing-mode: horizontal-tb;
+}
+.globe{
+   float: right;
+   margin-right:550px;
+}
+.star{
+    float: right;
+    margin-top: 40px;
+}
+
+.hero-heading{
+    margin-left: 600px;
+    font-weight: 700;
+    font-size: 4em;
+    word-spacing: 4px;
+}
+.hero-description{
+    font-size: 15px;
+    margin-left: 400px;
+    margin-bottom: 250px;
+    text-align: center;
+}
+.button-email{
+    float: right;
+    margin-right: 500px;
+    border: 2px solid rgb(14, 14, 14);
+    padding: 15px 30px;
+    border-radius: 10px;
+    margin-top: -200px;
+    font-size: 1.2em;
+    font-weight: 700;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.button-join{
+    float: right; 
+    margin-right: 390px;
+    background-color: black;
+    color: aliceblue;
+    border: 5px solid rgb(9, 9, 9);
+    padding: 3px ;
+    border-radius: 4px;
+    margin-top: -190px;
+}
+.contact-heading{
+    float: right; 
+    margin-right: 450px;
+    margin-top: -80px;
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-seri3;
+
+}
+.icons{
+    margin-left: 850px;
+    margin-top:-55px ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
